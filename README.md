@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Afonso Lucas, a 27 years old iOS Developer.
+- 👋 Hi, I’m Afonso Lucas, a 28 years old iOS Developer.
 - 👀 I’m interested in technology and games in general.
 - 📫 How to reach me: 
   - Linkedin: https://www.linkedin.com/in/afonso-lucas/
